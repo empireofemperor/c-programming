@@ -4,6 +4,7 @@
 /****************************************************************************************************************
 AIM           - WAP  to input any number and check the no. us divisible by 3 or not
 OBJECTIVE     - use of only "if - else" statement
+PROGRAMMER    - Jatin sharma
 *********************************************************************************************************************/
 
 int main()
