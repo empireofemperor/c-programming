@@ -3,7 +3,7 @@
 
 /************************************************************************************************
 AIM    -    WAP to input a 4 digit no. and find out the sum of all digits by using while loop
-
+PROGRAMMER    - Jatin sharma
 OBJECT -     use of While-loop
 *************************************************************************************************/
 
