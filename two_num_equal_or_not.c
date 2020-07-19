@@ -4,6 +4,7 @@
 /*************************************************************************************************************************
 AIM           - WAP  to input to check the hether the two number enter by user are equal or not by using if-else statement
 OBJECTIVE     - use of only "if - else" statement
+PROGRAMMER    - Jatin sharma
 ****************************************************************************************************************************/
 
 int main()
