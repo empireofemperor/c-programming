@@ -3,8 +3,9 @@
 
 
 /*****************************************************************************************************
-AIM      -   WAP to input 5 elements in an integer Array using assognment operator and print the su of 1 and last & print the all elements
+AIM      -   WAP to input 5 elements in an integer Array using assignment operator and print the su of 1 and last & print the all elements
 OBJECT   -   use of Array
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
