@@ -7,6 +7,7 @@ OBJECT   -   use of function
 *************************************************************************************************/
 
 float area();    //function declaration
+//here "float" stands for return value and there is no argument(void)
 
 int main()
 {
