@@ -4,9 +4,8 @@
 
 /***********************************************************************************************
 AIM      -    WAP to print the sum of between two numbers, by using for-loop
-
 OBJECT   -    use of "for-loop"
-
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
@@ -25,6 +24,8 @@ int main()
     printf("Sum of the no. between %d to %d is : %d ",n, m, s);
     getch();
     return 0;
+	// for example sum between 1-10.
+	
 }
 
 
