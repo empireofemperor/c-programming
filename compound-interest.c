@@ -4,7 +4,8 @@
 
 
 /************************************************************************************************************************
-AIM - WAP to calculate the compound Interest for the principle value with rate r% and time in t years.
+AIM           - WAP to calculate the compound Interest for the principle value with rate r% and time in t years.
+PROGRAMMER    - Jatin sharma
 ***************************************************************************************************************************/
 
 int main()
