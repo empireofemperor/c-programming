@@ -5,6 +5,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to take a value from user and print sum till that num by usnig recursion only
 OBJECT   -   use of recursion
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int sum(int n);    //function declaration
