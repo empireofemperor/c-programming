@@ -11,8 +11,11 @@ int main(void) {
     // %d displays the integer value of a character
     // %c displays the actual character
     printf("ASCII value of %c = %d", c, c);
+
+    printf("Press any key to exit...");
     
     getch();
     return 0;
+
 
 }
