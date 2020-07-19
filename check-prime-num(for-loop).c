@@ -3,10 +3,9 @@
 
 
 /***********************************************************************************************
-AIM      -    WAP to input a number and check the number is prime number or not, by using for-loop
-
+AIM      -    WAP to input a number and check the number is prime number or not, by using for-loo
 OBJECT   -    use of "for-loop"
-
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
