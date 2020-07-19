@@ -3,7 +3,8 @@
 #include<math.h>
 
 /**********************************************************************************
-AIM - WAP to solve the roots of the given qudretic equation
+AIM           - WAP to solve the roots of the given qudratic equation
+PROGRAMMER    - Jatin sharma
 *************************************************************************************/
 
 int main()
