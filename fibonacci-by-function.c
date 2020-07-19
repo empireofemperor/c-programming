@@ -4,9 +4,11 @@
 /*****************************************************************************************************
 AIM      -   WAP to print the fibonacci series by usnig function only
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 void fib();    //function declaration
+//without argument without return value
 
 int main()
 {
