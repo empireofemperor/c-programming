@@ -4,7 +4,8 @@
 
 /*****************************************************************************************************
 AIM      -   WAP to calculate the factorial of a number by usnig recursion only
-OBJECT   -   use of recursion
+OBJECT   -   use of recursion(when fucntion call itself)
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int factorial(int n);    //function declaration
@@ -32,7 +33,7 @@ int factorial(int n)
 	if (n==1)
 	return (1);
 	else
-	f=n*factorial(n-1);
+	f=n*factorial(n-1);   //here factorail function calling itself so there is recursion
 	return (f);
 
 	
