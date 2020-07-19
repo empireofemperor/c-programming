@@ -1,10 +1,10 @@
 #include<stdio.h>        //herader file
 #include<math.h>
 
-/*
-Author- Jatin Sharma
+/******************************************************************
 Aim- Multiplication of two matrix
-*/
+PROGRAMMER    - Jatin sharma
+*******************************************************************/
 
 
 int main()
