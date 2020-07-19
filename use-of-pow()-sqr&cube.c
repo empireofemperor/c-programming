@@ -8,7 +8,7 @@ OBJECT   -   use of function & pow()
 PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
-void jatin();    //function declaration
+void sqr_cube();    //function declaration
 
 int main()
 {
@@ -22,7 +22,7 @@ int main()
 the function is written below and the given above function is the main program or function
 *******************************************************************************************/
 
-void jatin()
+void sqr_cube()
 {
 	int n, square, cube;
 	printf("input the number : ");
