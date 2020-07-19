@@ -4,9 +4,8 @@
 
 /***********************************************************************************************
 AIM      -    WAP to print the average of between 1 to 10 numbers, by using for-loop
-
 OBJECT   -    use of "for-loop"
-
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
