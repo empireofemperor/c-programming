@@ -4,6 +4,7 @@
 /****************************************************************************************************************
 AIM           - WAP  to input three numbers and print the greatest between them using only "if" statement
 OBJECTIVE     - use of only "if" statement
+PROGRAMMER    - Jatin sharma
 *********************************************************************************************************************/
 
 int main()
