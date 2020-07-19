@@ -4,6 +4,7 @@
 /***********************************************************************
 AIM      -   WAP to print sum of a and b by using functions only
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 ************************************************************************/
 
 int sum(int x, int y);    //function declaration
