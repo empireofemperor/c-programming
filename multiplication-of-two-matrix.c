@@ -6,6 +6,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to input two 3x3 matrix and print the multiplication matrix
 OBJECT   -   use of Array
+PROGRAMMER    - Jatin sharma
 ******************************************************************************************************/
 
 int main()
