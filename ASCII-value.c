@@ -4,6 +4,7 @@
 
 int main(void) {  
     char c;
+    printf("This program is for printing the ASCII values of the charachters.\n");
     printf("Enter a character: ");
     scanf("%c", &c);  
     
