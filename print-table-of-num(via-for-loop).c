@@ -4,8 +4,8 @@
 
 /***********************************************************************************************
 AIM      -    WAP to input a number and print the table of thatnumber, by using for-loop
-
 OBJECT   -    use of "for-loop"
+PROGRAMMER    - Jatin sharma
 
 *************************************************************************************************/
 
