@@ -3,7 +3,7 @@
 
 /************************************************************************************************
 AIM    -    WAP to input a  digit and print the reverse of all digits by using while loop
-
+PROGRAMMER    - Jatin sharma
 OBJECT -     use of While-loop
 *************************************************************************************************/
 
