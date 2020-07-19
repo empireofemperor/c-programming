@@ -4,9 +4,12 @@
 /*****************************************************************************************************
 AIM      -   WAP to print the area of a circle by using functions with argument with return value
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 float area(int r);    //function declaration
+
+//here "float" is return value adn "int r" is argument
 
 int main()
 {
