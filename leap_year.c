@@ -4,6 +4,7 @@
 /*************************************************************************************************************************
 AIM           - WAP  to find whether the given year is leap year or not by using if-else statement
 OBJECTIVE     - use of only "if - else" statement
+PROGRAMMER    - Jatin sharma
 ****************************************************************************************************************************/
 
 int main()
