@@ -4,7 +4,8 @@
 
 /*****************************************************************************************************
 AIM      -   WAP which accepts the value from the user and print its square and cube by usnig function only
-OBJECT   -   use of function
+OBJECT   -   use of function & pow()
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 void jatin();    //function declaration
