@@ -4,6 +4,7 @@
 /*************************************************************************************************************************
 AIM           - WAP  to print the greatest between three no. by using if-else statement
 OBJECTIVE     - use of only "if - else" statement
+PROGRAMMER    - Jatin sharma
 ****************************************************************************************************************************/
 
 int main()
