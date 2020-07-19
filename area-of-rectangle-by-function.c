@@ -5,9 +5,11 @@
 /*****************************************************************************************************
 AIM      -   WAP to print the area of rectangle length and breath taken by user by usnig function only
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 float area(int x, int y);    //function declaration
+//fucntion with argument and with return value
 
 int main()
 {
