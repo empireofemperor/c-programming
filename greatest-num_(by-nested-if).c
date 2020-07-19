@@ -4,6 +4,7 @@
 /*************************************************************************************************************************
 AIM           -  WAP  to input three no. and the greatest between them by using nested-if statement
 OBJECTIVE     -  use of only "nested-if" statement
+PROGRAMMER    - Jatin sharma
 ****************************************************************************************************************************/
 
 int main()
