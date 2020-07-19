@@ -6,6 +6,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to input 3x3 matrix and print the transpose of all the elements
 OBJECT   -   use of Array
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
