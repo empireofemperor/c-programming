@@ -10,6 +10,7 @@ AIM   -    WAP to input two integer value and perform add, sub, mul, div, based 
 4-div
 
 OBJECT   - use of "switch" statement
+PROGRAMMER    - Jatin sharma
 
 *************************************************************************************************/
 
