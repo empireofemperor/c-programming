@@ -2,8 +2,8 @@
 #include<conio.h>
 
 /************************************************************************************************
-AIM    -    WAP to print fiboncci series up to 15 terms by using for loop
-
+AIM    -    WAP to print fibonacci series up to 15 terms by using for loop
+PROGRAMMER    - Jatin sharma
 OBJECT -     use of for-loop
 *************************************************************************************************/
 
