@@ -6,6 +6,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to input 10 int no. in an array and print the greatest and smallest betweem them
 OBJECT   -   use of Array
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
