@@ -5,6 +5,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to calculate the factorial of a number by usnig function only
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 void factorial();    //function declaration
