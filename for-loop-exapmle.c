@@ -3,9 +3,9 @@
 
 
 /***********************************************************************************************
-AIM      -    WAP to print "hello" 10 times by using for-loop
-
-OBJECT   -    use of "for-loop"
+AIM           -    WAP to print "hello" 10 times by using for-loop
+OBJECT        -    use of "for-loop"
+PROGRAMMER    - Jatin sharma
 
 *************************************************************************************************/
 
