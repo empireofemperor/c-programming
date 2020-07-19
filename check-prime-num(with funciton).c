@@ -5,6 +5,7 @@
 /*****************************************************************************************************
 AIM      -   WAP to check the no is prime no or not by usnig function only
 OBJECT   -   use of function
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int prime(int x);    //function declaration
