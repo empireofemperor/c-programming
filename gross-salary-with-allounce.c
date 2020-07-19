@@ -5,6 +5,7 @@
 /**********************************************************************************
 AIM - Mr. Ace basic salary input through the keyboard, his daily allounce 40% of 
       basic salary and houce rent allounce is 20%. WAP to calculate his gross salary.
+PROGRAMMER    - Jatin sharma
 *************************************************************************************/
 
 int main()
