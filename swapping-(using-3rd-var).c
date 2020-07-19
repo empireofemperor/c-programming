@@ -3,6 +3,7 @@
 
 /************************************************************
 AIM   - WAP  for swaping of two no. using 3rd variable
+PROGRAMMER    - Jatin sharma
 ************************************************************/
 
 int main()
