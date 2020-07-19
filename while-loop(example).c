@@ -3,8 +3,8 @@
 
 /****************************************************************************************
 AIM    -    WAP to print hello 10 times by using while loop
-
 OBJECT - use of While-loop
+PROGRAMMER    - Jatin sharma
 ***************************************************************************************/
 
 int main()
