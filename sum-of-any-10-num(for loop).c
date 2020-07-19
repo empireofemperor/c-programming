@@ -4,7 +4,8 @@
 
 /*****************************************************************************************************
 AIM      -   WAP to input any 10 num and print the sum of them by using loop
-OBJECT   -   use of loops
+OBJECT   -   use of for loop
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
@@ -22,20 +23,5 @@ int main()
 	getch(); 
 	return 0;
 
-}
-
-/******************************************************************************************
-the function is written below and the given above function is the main program or function
-*******************************************************************************************/
-
-int sum(int n)
-{
-	
-	if (n==1)
-	return (1);
-	else
-	return (n+sum(n-1));
-
-	
 }
 
