@@ -4,6 +4,7 @@
 /***************************************************************************************************
 AIM           -  WAP a program to using switch case statement for integer
 OBJECTIVE     -  use of only "switch" statement
+PROGRAMMER    - Jatin sharma
 ***************************************************************************************************/
 
 int main()
