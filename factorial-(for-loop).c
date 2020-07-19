@@ -4,9 +4,8 @@
 
 /***********************************************************************************************
 AIM      -    WAP to input a number and print the factorial of that number, by using for-loop
-
 OBJECT   -    use of "for-loop"
-
+PROGRAMMER    - Jatin sharma
 *************************************************************************************************/
 
 int main()
