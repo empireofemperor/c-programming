@@ -2,12 +2,12 @@
 #include<stdlib.h>
 #include<time.h>
 
-int random();
+int random_gen();  //function updated
 
 int main(){
       int guess,num, attempts =1;
 
-      num = random();
+      num = random_gen();  
 
       do{
             printf("Guess the number between 1-100 : ");
@@ -17,7 +17,7 @@ int main(){
                   printf("Higher Number Please!\n");
             }
             else if (guess>num){
-                  printf("Lower Number Please!");
+                  printf("Lower Number Please!\n");
             }
             else
             {
@@ -31,7 +31,7 @@ int main(){
 }
 
 //random number generating function
-int random(){
+int random_gen(){
       int number;
       srand(time(0));
       number = rand()%100 + 1; // Generating a random numberl
