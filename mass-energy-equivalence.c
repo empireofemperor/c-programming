@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<math.h>
+#include <stdio.h>
+#include <math.h>
 
-int main(){
+int main()
+{
 
       //intialazing the  variables
       float energy, mass;
@@ -11,7 +12,7 @@ int main(){
       scanf("%f", &mass);
 
       //logic
-      energy = mass * 3*pow(10,8);
+      energy = mass * 3 * pow(10, 8);
       printf("Energy = %2.f Jule", energy);
       return 0;
 }
